@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: test.introspected
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, gradle, http-client, java, java-application, junit, logback, lombok, netty-server, readme, shade, yaml]
